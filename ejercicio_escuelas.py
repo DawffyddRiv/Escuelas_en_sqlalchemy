@@ -1,4 +1,4 @@
-#Ojalá y cumpla con los requerimientos. Saludos colega.
+#Ojalá y cumpla con los requerimientos mínimos. Saludos colega.
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, String, Sequence, ForeignKey
