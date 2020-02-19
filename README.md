@@ -10,3 +10,6 @@ El horario asociará un curso y un profesor para un día de la semana (Lunes, Ma
 El sistema permitirá exportar los alumnos que pertenecen a un curso, el horario de cada profesor y el horario del curso.
 
 Se agradece los comentarios o sugerencias que puedan otorgar.
+
+Nota:
+Si se puede apreciar, es notorio que apreciar que el campo "horario" se encargará de poseer dos claves foráneas que harán referencia tanto a "Curso" como "Profesor" . Se anexa diagrama Entidad-Relación.
