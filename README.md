@@ -12,4 +12,4 @@ El sistema permitirá exportar los alumnos que pertenecen a un curso, el horario
 Se agradece los comentarios o sugerencias que puedan otorgar.
 
 Nota:
-Se consideró que la entidad "horario" se poseerá dos claves foráneas que harán referencia tanto a "Curso" como "Profesor" . Se anexa diagrama Entidad-Relación. Otra entidad a poseer una entidad con clave foránea es "alumno"
+Se consideró que la entidad "horario" poseerá dos claves foráneas que harán referencia tanto a "Curso" como "Profesor" . Se anexa diagrama Entidad-Relación. Otra entidad a poseer una entidad con clave foránea es "alumno"
